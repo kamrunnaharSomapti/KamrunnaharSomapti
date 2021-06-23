@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , I'm Somapti 👋
 
 <!--
 **kamrunnaharSomapti/KamrunnaharSomapti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
+[<img align="left" alt="KamrunnaharSomapti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fs_o_m_a_p_t_i%3Ffbclid%3DIwAR1KWagfp4imFX8WAc8HyeCew_TTxo9P36-6UaGWVFA8Bk1VYCbo6ZMivbo&h=AT0o83ViX3O-0dnBirzuOE9z7TvJXUswC02C43Gw9nnXypuxXD-kgo-eFrTFY_ALFBr2tgEIY7SV4QeM0JUi7yvI9ozEMrEPsitPCO8W7f6vpozTinYL31O9E-xrHjsnVfNb]
