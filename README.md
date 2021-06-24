@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Somapti
 I'm a student Of Computer Science. I like to read storybooks and enjoy learning new languages. I'm also a front-end developer.
 
-Skills: Bootstrap / HTML / JS / CSS/ PHP/ Database
+Skills: Bootstrap / HTML / JS / CSS/ PHP/ Database / ContentWritter
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python 
