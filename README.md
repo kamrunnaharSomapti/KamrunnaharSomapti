@@ -18,4 +18,4 @@ Skills: Bootstrap / HTML / JS / CSS/ PHP/ Database / ContentWritter
 
 ![Profile views](https://gpvc.arturio.dev/kamrunnaharSomapti)  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrunnaharSomapti)](https://github.com/anuraghazra/github-readme-stats)
