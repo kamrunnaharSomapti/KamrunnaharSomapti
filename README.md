@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Somapti
-I'm a front-end developer. I worked 2 years as a content writter for a online portal. I have also designed UI for few apps and websites. I love to read story books, playing games.
+I'm a front-end developer. I worked 2 years as a content writter for a online portal. I have also designed UI for few apps and websites. I love reading story books,watching movies/sereis and playing video games.
 
 Skills: Bootstrap / HTML / JS / CSS/ PHP/ Database / ContentWritter
 
