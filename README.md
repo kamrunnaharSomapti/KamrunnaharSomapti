@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Somapti
-I'm a student Of Computer Science. I like to read storybooks and enjoy learning new languages. I'm also a front-end developer.
+I'm a front-end developer. I worked 2 years as a content writter for a online portal. I have also designed UI for few apps and websites. 
 
 Skills: Bootstrap / HTML / JS / CSS/ PHP/ Database / ContentWritter
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently designing a ecommerce website
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Website Developing  
 - 📫 How to reach me: somaptiesuborno@gmail.com 
